@@ -17,7 +17,7 @@ setup(
         "demoji==1.1.0",
         "en-core-web-sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.5.0/en_core_web_sm-3.5.0-py3-none-any.whl",
         "nltk==3.8.1",
-        "numpy==1.24.2",
+        "numpy==1.18.2",
         "pt-core-news-sm @ https://github.com/explosion/spacy-models/releases/download/pt_core_news_sm-3.5.0/pt_core_news_sm-3.5.0-py3-none-any.whl",
         "spacy==3.5.2",
         "spacy-legacy==3.0.12",
